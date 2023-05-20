@@ -1,4 +1,4 @@
-const sum = require('./sum');
+const sum = require('../../dominio/calculadora/Projeto/sum');
 
 describe("Testando a funcionalidade de soma", () => {
 
